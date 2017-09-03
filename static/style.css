@@ -1,0 +1,31 @@
+*{
+    border-radius: 1px;
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* p {
+    text-align: center;
+} */
+
+table {
+    background-color: #2F4D4B;
+    border: 2px groove #282A2D;
+    margin: 22px auto;
+    width: 80%;
+}
+
+tr {
+    background-color: #2F4D4B;
+    border: 1px ridge #282A2D;
+}
+
+.btn {
+    border: 2px solid rgba(140, 255, 140, 95);
+    border-radius: 2px;
+    background-color: #36BB36;
+    display: inline-block;
+    margin: 12px 100px 12px 12px;
+}
